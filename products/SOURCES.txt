@@ -1,0 +1,42 @@
+PRODUCT IMAGE SOURCES
+====================
+
+Sterling Pumps
+  pump-openwell.png: https://www.sterlingpumps.in/osp.php
+  pump-selfpriming.png: https://www.sterlingpumps.in/sp.php
+  pump-borewell.png: https://www.sterlingpumps.in/bsp.php
+
+Goldmedal (site only lists the AIR and CURVE switch ranges)
+  switch-air.png: https://www.goldmedalindia.com/air/
+  switch-curve.jpg: https://www.goldmedalindia.com/curve-nixon/plates/
+
+Anchor by Panasonic
+  switch-penta.png: https://lsin.panasonic.com/switches-sockets/penta
+  switch-roma.jpg: https://lsin.panasonic.com/switches-sockets/roma
+
+Finolex
+  wire-finolex.png: https://www.finolex.com/ProductPage/Prod/House-Wires~Flame-Retardant-FR-Grade-90Mtr-Gold
+
+Crompton
+  light-batten.png: https://www.crompton.co.in/products/crompton-20w-slimo-batten
+  ceiling-light.webp: https://www.crompton.co.in/collections/ceiling-lights/
+  fan-crompton.jpg: https://www.crompton.co.in/products/crompton-high-speed-aura-star-rated-ceiling-fan
+
+CPVC and agricultural pipe references
+  pipe-ashirvad.webp: https://www.ashirvad.com/solution/ashirvad-flowguard-plus-cpvc-piping-system/
+  ashirvad-elbow.png, fitting-ashirvad-tee.png, ashirvad-agri-pipe.png: https://www.ashirvad.com/product/sdr11pipe/
+  pipe-birla.jpg: https://birlanu.com/cpvc-pipes-fittings
+
+Watertec
+  watertec-taps.jpg: https://watertecindia.com/bathware/polymer-taps
+  watertec-showers.jpg: https://watertecindia.com/bathware/polymer-showers
+  watertec-valves.jpg: https://watertecindia.com/bathware/polymer-valves
+  watertec-faucets.jpg: https://watertecindia.com/bathware/polymer-faucets
+  watertec-tubes.jpg: https://watertecindia.com/bathware/connection-tube
+  watertec-mixers.jpg: https://watertecindia.com/bathware/polymer-mixers
+  watertec-seat-covers.jpg: https://watertecindia.com/polymer-bathware/toilet-seat-covers
+
+CERA
+  cera-western-toilet.jpg: https://www.cera-india.com/cera/sanitaryware/ewcs
+  cera-indian-pan.jpg: https://www.cera-india.com/cera/sanitaryware/squatting-pans
+  cera-basin.jpg: https://www.cera-india.com/cera/sanitaryware/wash-basins
